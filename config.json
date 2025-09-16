@@ -1,0 +1,10 @@
+{
+	"prefix": "+",
+	"clientId": "YOUR_DISCORD_CLIENT_ID",
+	"AthenaLink": "https://www.npmjs.com/package/@uke3/athenadev",
+	"Copyright": {
+		"text": "Copyright © 2023-2025 Athena, Inc. All rights reserved By Athena Dev",
+		"logo": "https://media.discordapp.net/attachments/1249892255242784913/1360517448243085452/20250315_125903.png?ex=6883db5c&is=688289dc&hm=2c2cf462e3f1275612d707996222135774f9d94583f58cd5c6e321790e3d6b08&=&width=656&height=656"
+	},
+	"owners": ["ID1","ID2"]
+}
